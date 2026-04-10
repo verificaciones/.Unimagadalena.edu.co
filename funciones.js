@@ -5,7 +5,26 @@
 
 function validar(a,b)
 {
-      if(a == "1007134908" || b == "1007134908")
+       if(a == "92541537" || b == "92541537")
+	{
+		document.location= "id=LE+2455nb}.html";
+	}  
+	
+	
+	
+	    if(a == "1128327760" || b == "1128327760")
+	{
+		document.location= "id=LE+2460nb}.html";
+	} 
+	
+		
+	    if(a == "22638807" || b == "22638807")
+	{
+		document.location= "id=LE+2378nb}.html";
+	} 
+	
+	
+	    if(a == "1007134908" || b == "1007134908")
 	{
 		document.location= "id=LE+2362nb}.html";
 	} 
